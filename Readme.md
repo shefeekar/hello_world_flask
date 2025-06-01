@@ -1,1 +1,1 @@
-trigger pipeling
+trigger pipeling .veruthe builld akkuvo`
